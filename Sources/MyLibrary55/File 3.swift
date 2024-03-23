@@ -1,5 +1,5 @@
 //
-//  File 2.swift
+//  File 3.swift
 //  
 //
 //  Created by Amiraslanli Arkan on 23.03.24.
@@ -7,13 +7,15 @@
 
 import Foundation
 
-public class SDK3 {
+import Foundation
+
+public class SDK4 {
     public init() { }
 }
 
-public extension SDK3 {
+public extension SDK4 {
     var doSmthng: Void {
-        print("called3")
+        print("called4")
         return
     }
 }
